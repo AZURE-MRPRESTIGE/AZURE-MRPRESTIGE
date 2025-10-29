@@ -10,3 +10,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://app.daily.dev/radoslawkomka"><img src="https://api.daily.dev/devcards/v2/052ZLj9Wk1rbRl4WeHSk7.png?type=default&r=773" width="356" alt="Radosław Komka's Dev Card"/></a>
